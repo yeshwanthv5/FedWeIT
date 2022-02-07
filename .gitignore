@@ -2,3 +2,16 @@
 .DS_Store
 
 sftp-config.json
+*.pyc
+*.bin
+*.npy
+*.gz
+*.pkl
+*.mat
+data_batch*
+*ubyte
+*.p
+*.zip
+*.meta
+*.html
+scripts/data/generated
